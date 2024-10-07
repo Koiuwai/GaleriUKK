@@ -1,0 +1,10 @@
+.navbar-nav{
+    font-weight: 500;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.bg-hero{
+    background: url('../img/NSX.jpg') no-repeat;
+    background-size: cover;
+}
